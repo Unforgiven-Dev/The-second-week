@@ -8,4 +8,4 @@ To build this project, Your computer need install this tool
 ## Manual install:
 1. Clone project to your computer:
    ```bash
-   git clone https://github.com/Ten-Cua-Ban/Ten-Du-An.git
+   git clone https://github.com/Unforgiven-Dev/The-second-week.git
