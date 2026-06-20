@@ -1,0 +1,5 @@
+# Bỏ qua tất cả file chạy của C++
+*.exe
+
+# Bỏ qua thư mục cấu hình của VS Code (tùy chọn)
+.vscode/
